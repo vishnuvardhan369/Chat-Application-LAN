@@ -28,9 +28,9 @@ This structure separates the server and client functionalities, making the code 
 
 **Installation:**  
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/LAN-Chat.git`  
+   `git clone https://github.com/vishnuvardhan369/Chat-Application-LAN`  
 2. Navigate to the project directory:  
-   `cd LAN-Chat`  
+   `cd Chat-Application-LAN`  
 3. Install the required dependencies using pip:  
    `pip install ttkthemes customtkinter pillow requests`
 
@@ -40,6 +40,6 @@ This structure separates the server and client functionalities, making the code 
   This will start the chat server and the HTTP file server.
 - **Run the Client:** Open another terminal (or use an IDE), navigate to the project directory, and run:  
   `python client.py`  
-  On the login screen, enter your username and server IP (default is `127.0.0.1`), then click **Connect**. Use the chat interface to send messages, transfer files, or send private messages.
+  On the login screen, enter your username and server IP (default is `127.0.0.1`), then click **Connect**. Use the chat interface to send messages, transfer files, or send private messages. If you want to try with different devices, then find the ip adress of the server & change ip adress while connecting.
 
 
